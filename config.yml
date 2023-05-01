@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=https://json.schemastore.org/hugo.json
+baseURL: znd4.dev
+languageCode: "en-us"
+title: "lost in the math"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  defaultTheme: "dark"
+  disableThemeSwitchToggle: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  author: ["Zane Dufour"]
+
+  editPost:
+    URL: https://github.com/znd4/blog/tree/main/content/
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  profileMode:
+    enabled: true
+    title: Zane Dufour
+    subtitle: Perennial novice. neovim enjoyer. Begrudging jupyter user.
+  socialIcons:
+    - name: "github"
+      url: "github.com/znd4"
+    - name: "reddit"
+      url: "reddit.com/u/zdog234"
+
+module:
+  imports:
+    - path: "github.com/adityatelange/hugo-PaperMod"
