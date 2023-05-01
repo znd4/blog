@@ -5,3 +5,5 @@ Based on some of [Rohin Shah's advice](https://rohinshah.com/faq-career-advice-f
 I could publish this on a blogging platform or github pages, but Hugo's sounded exciting since I heard about it, and I've wanted to actually put something at `znd4.dev`, so here I am.
 
 Most of this first day has ended up being a huge detour from actual alignment learning, so I might not actually end up posting this until later.
+
+I should probably write a self-reflective post on my challenges with getting stuck in rabbit holes.
