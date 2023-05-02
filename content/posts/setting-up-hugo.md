@@ -1,3 +1,9 @@
+---
+title: "Is blogging a rabbit hole or essential?"
+date: "2023-05-01"
+description: "Zane struggles with DNS and spends hours automating 10 minutes worth of work."
+---
+
 # Setting up Hugo
 
 Based on some of [Rohin Shah's advice](https://rohinshah.com/faq-career-advice-for-ai-alignment-researchers/) on breaking into AI Alignment, I've decided to start trying to write up / summarize the things I'm reading, and setting up a blog seems like a decent tool for that.
