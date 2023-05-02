@@ -26,6 +26,9 @@ params:
     enabled: true
     title: Zane Dufour
     subtitle: Perennial novice. neovim enjoyer. Begrudging jupyter user.
+    buttons:
+      - name: Blog
+        url: posts
   socialIcons:
     - name: "github"
       url: "github.com/znd4"

@@ -1,7 +1,11 @@
 ---
-title: "Is blogging a rabbit hole or essential?"
+title: "Do I really need a website?"
 date: "2023-05-01"
 description: "Zane struggles with DNS and spends hours automating 10 minutes worth of work."
+tags: []
+
+ShowToc: false
+ShowBreadCrumbs: true
 ---
 
 # Setting up Hugo
@@ -13,3 +17,7 @@ I could publish this on a blogging platform or github pages, but Hugo's sounded 
 Most of this first day has ended up being a huge detour from actual alignment learning, so I might not actually end up posting this until later.
 
 I should probably write a self-reflective post on my challenges with getting stuck in rabbit holes.
+
+## Concerns
+
+I'm a bit worried that I'll fall into a perfectionist trap and spend days editing blog posts that are just meant to be short, rough summaries of my thoughts on what I'm reading that day.
