@@ -15,6 +15,9 @@ params:
   disableThemeSwitchToggle: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowPostNavLinks: true
+
   author: ["Zane Dufour"]
 
   editPost:
@@ -24,6 +27,7 @@ params:
 
   profileMode:
     enabled: true
+    imageUrl: https://en.gravatar.com/userimage/98529246/c3332f36a726d21c8ba6ba21fa9d81ab.jpg?size=400
     title: Zane Dufour
     subtitle: Perennial novice. neovim enjoyer. Begrudging jupyter user.
     buttons:
