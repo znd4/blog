@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://json.schemastore.org/hugo.json
-baseURL: znd4.dev
+baseURL: https://znd4.dev
 languageCode: "en-us"
 title: "lost in the math"
 theme: PaperMod
